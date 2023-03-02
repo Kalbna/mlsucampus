@@ -1,0 +1,20 @@
+{
+	"elements":[
+		{ "campusid":"mlsu/campus/2023/kalpana_001",
+			"departid":"mlsu/departments/2023/kalpana_001",
+			"hindi":"जनसंख्या अनुसंधान केंद्र",
+			"english":"population research center",
+			"maplocation":"https://goo.gl/maps/nzn3cpNxHnwikoTX7",
+			"qrcode":"Not Avabile",
+			"qrid":"mlsu/qr/001"
+		},
+		{ "campusid":"mlsu/campus/2023/001",
+			"departid":"mlsu/depart/2023/001",
+			"hindi":"जनसंख्या अनुसंधान केंद्र ewfsd ",
+			"english":"population research center sdgv ",
+			"maplocation":"https://goo.gl/maps/nzn3cpNxHnwikoTX7",
+			"qrcode":"QRCODE ERROR",
+			"qrid":"mlsu/qr/002"
+		}
+]
+}
